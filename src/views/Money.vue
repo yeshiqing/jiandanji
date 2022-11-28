@@ -2,7 +2,7 @@
   <layout class-prefix="layout">
     <Tags/>
     <Notes/>
-    <Types/>
+    <Types outerProp="hellow"/>
     <NumberPad/>
   </layout>
 </template>
